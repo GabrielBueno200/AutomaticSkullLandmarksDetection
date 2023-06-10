@@ -41,9 +41,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 💻 About The Project
-It consists of a 
-
-Yuanwei Li
 
 <!-- HOW TO RUN -->
 ## 🚀 How To Run
