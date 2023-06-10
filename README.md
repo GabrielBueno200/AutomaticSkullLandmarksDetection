@@ -79,7 +79,12 @@ $ python3 main
 
 ## 🤖 Authors
 
-[Antonio Gustavo](https://github.com/antuniooh)           |  [Henrique Vital](https://github.com/henriquevital00)           |  [Gabriel Bueno](https://github.com/GabrielBueno200)           |  [João Vitor Dias](https://github.com/JoaoDias-223)           |  [Weverson da Silva](https://github.com/WebisD)
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://avatars.githubusercontent.com/u/51217271?v=4" alt="drawing" width="150"/>  |  <img src="https://avatars.githubusercontent.com/u/48650626?v=4" alt="drawing" width="150"/>| <img src="https://avatars.githubusercontent.com/u/56837996?v=4" alt="drawing" width="150"/>  |  <img src="https://avatars.githubusercontent.com/u/63318342?v=4" alt="drawing" width="150"/>| <img src="https://avatars.githubusercontent.com/u/49571908?v=4" alt="drawing" width="150"/>
-22.119.001-0 | 22.119.078-8 | 22.119.077-0 | 22.119.006-9 | 22.119.004-4
+[Antonio Gustavo](https://github.com/antuniooh)
+
+[Henrique Vital](https://github.com/henriquevital00)
+
+[Gabriel Bueno](https://github.com/GabrielBueno200)
+
+[João Vitor Dias](https://github.com/JoaoDias-223)
+
+[Weverson da Silva](https://github.com/WebisD)
