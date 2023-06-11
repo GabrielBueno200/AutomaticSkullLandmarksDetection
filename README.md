@@ -39,7 +39,7 @@
 The project is a Computer Science undergraduate thesis conducted at University Center of FEI. This undergraduate thesis presents a new approach for automatically identifying cephalometric landmarks in segmented skull tomographic images using bio-inspired algorithms and Convolutional Neural Networks (CNN). The goal is to improve the accuracy and efficiency of this process, benefiting medical and dental professionals in their analysis of craniofacial structures.
 
 ### Methodology
-The proposed methods consists of a workflow (Fig. 1) containing six steps for detecting fiducial points in CT images and
+The proposed methods consists of a workflow containing six steps for detecting fiducial points in CT images and
 reconstructing a 3D model of the skull. The first step involves
 acquiring CT images with fiducial points from a database.
 Two processes are then followed: one for detecting fiducial
